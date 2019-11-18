@@ -1,11 +1,17 @@
 # genius_reader
 
+```
 1.vue-router路由拦截
+
 2.二次封装axios
+
 3.api封装
+
 4.vuex存储登录token
+
 5.二级路由的配置
 
+```
 > Genius_cxx学习demo
 
 ## Build Setup
