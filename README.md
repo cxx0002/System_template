@@ -1,6 +1,8 @@
 # genius_reader
 
 ```
+vue+iview+vuex+axios
+
 1.vue-router路由拦截
 
 2.二次封装axios
